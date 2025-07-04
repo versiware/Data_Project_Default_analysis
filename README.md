@@ -1,6 +1,7 @@
 # Análise Descritiva de Clientes com Cartão de Crédito
 
 Este projeto tem como objetivo identificar padrões e subgrupos de clientes altamente endividados a partir de dados de cartão de crédito, utilizando a técnica de **Subgroup Discovery**, utilizando o Beam Search.
+Desenvolvido por VersiWare – Projeto de aprendizado em análise de dados com foco em segmentação de clientes e inteligência de negócios.
 
 ---
 
