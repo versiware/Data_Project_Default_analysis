@@ -1,5 +1,4 @@
 # SD_MAP
-Projects using SD MAP and Beam Search
 O código SD MAP and Beam Search: Análise de inadimplência de clientes, tem como objetivo identificar perfis de clientes com um alto saldo devedor (balance) na base pública um conjunto de dados de cartão de crédito para agrupamento, onde o conjunto de dados resume o comportamento de uso de cerca de 9.000 titulares ativos de cartão de crédito nos últimos 6 meses. 
 O nível do cliente possui 18 variáveis comportamentais.
 Entendo os dados de Análise, de onde foram extraídos insights relevantes:
